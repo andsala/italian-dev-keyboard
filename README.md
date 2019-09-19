@@ -19,7 +19,7 @@ Le modifiche apportate al layout italiano standard sono le seguenti:
 
 ## Installazione
 
-1. Scarica l'ultima versione disponibile da [releases]https://github.com/andsala/italian-dev-keyboard/releases)
+1. Scarica l'ultima versione disponibile da [releases](https://github.com/andsala/italian-dev-keyboard/releases)
    e estrai l'archivio oppure costruisci il tuo pacchetto di installazione con
    [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 2. Esegui `setup.exe`
